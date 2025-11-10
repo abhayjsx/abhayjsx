@@ -24,11 +24,6 @@
 </a>
 </p>
  <br>
-  <br>
-  <p align="center">
-  <img src="https://profile-counter.glitch.me/abhayjsx/count.svg">
-</p>
-  <br>
   <hr>
 <p align="center">
   <br>
